@@ -34,7 +34,7 @@ We can show the most popular type of Crowdfunding parent categories with a pie c
 
 We can use a bar graph to represent the average campaign length in days Vs outcome for all Crowdfunding data.
 
-#Statistical Analysis
+# Statistical Analysis
 
 Successful - Backers			Unsuccessful - Backers	
 Mean	851.15		Mean	585.62
